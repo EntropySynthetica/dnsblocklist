@@ -1,0 +1,183 @@
+#####
+# Sourced from https://github.com/dnsblocklistnet/blocklists
+#####
+
+
+######################
+##
+## Flat Earth
+##
+######################
+0.0.0.0 theflatearthsociety.org
+0.0.0.0 tfes.org
+0.0.0.0 wiki.tfes.org
+0.0.0.0 faq.tfes.org
+0.0.0.0 flatearthfc.com
+0.0.0.0 ifers.123.st
+0.0.0.0 flatearth.ws
+0.0.0.0 flatearthbusted.blogspot.com
+0.0.0.0 roundearthsense.blogspot.com
+0.0.0.0 fecore.org
+0.0.0.0 liiighthouse.com
+
+######################
+##
+## Medical
+##
+######################
+0.0.0.0 disabledveterans.org
+0.0.0.0 naturalnews.com
+0.0.0.0 mmshealthy4life.com
+0.0.0.0 mmshealthyforlife.com
+0.0.0.0 mms-supplement.com
+0.0.0.0 mmstestimonials.co
+0.0.0.0 miraclemineral.co.nz
+0.0.0.0 mms-healthyliving.com
+0.0.0.0 mmsinfo.org
+0.0.0.0 mmsforum.io
+0.0.0.0 cancercontrolsociety.org
+0.0.0.0 andreaskalcker.com
+0.0.0.0 earthclinic.com
+0.0.0.0 essentialoils.network
+0.0.0.0 alivenhealthy.com
+0.0.0.0 healingcancernaturally.com
+0.0.0.0 jahealthadvocate.com
+0.0.0.0 curezone.org
+0.0.0.0 faim.org
+0.0.0.0 thegoodnewsdr.com
+0.0.0.0 DrDeBrincat.com
+0.0.0.0 icrichild.org
+#snake oil
+0.0.0.0 dgaryyoung.com
+0.0.0.0 elenafridmd.com
+0.0.0.0 coseva.com
+0.0.0.0 thewellnessboutiquemn.com
+0.0.0.0 healthhomeandhappiness.com
+0.0.0.0 mnlearningsolutions.com
+0.0.0.0 trs-detox.com
+0.0.0.0 yuccitup.com
+0.0.0.0 voxxlife.com
+0.0.0.0 plandemicvideo.com
+0.0.0.0 drjudyamikovits.com
+0.0.0.0 truehealthfacts.com
+0.0.0.0 brain.foodrevolution.org
+0.0.0.0 foodrevolution.org
+#antivax
+0.0.0.0 vaxxedthemovie.com
+0.0.0.0 vaxxed2.com
+0.0.0.0 aimintegrativemedicine.com
+0.0.0.0 wakefielddocumentary.us12.list-manage1.com
+0.0.0.0 childrenshealthdefense.org
+0.0.0.0 avn.org.au
+0.0.0.0 imoparty.com
+0.0.0.0 autismone.org
+0.0.0.0 old.autismone.org
+0.0.0.0 physiciansforinformedconsent.org
+0.0.0.0 icandecide.org
+0.0.0.0 thehighwire.com
+0.0.0.0 livingwhole.org
+0.0.0.0 kellybroganmd.com
+0.0.0.0 thetruthaboutvaccines.com
+0.0.0.0 go.thetruthaboutvaccines.com
+0.0.0.0 haleighsheart.com
+# Fluoride
+0.0.0.0 fluoridealert.org
+0.0.0.0 fluoridefreeaustin.com
+0.0.0.0 fluoridefreeaustin.com
+0.0.0.0 fluoridedangers.blogspot.com
+0.0.0.0 fluorideexposed.org
+
+######################
+##
+## QAnon
+##
+######################
+0.0.0.0 8kun.top
+0.0.0.0 wearethene.ws
+0.0.0.0 qalerts.app
+0.0.0.0 qanon.pub
+0.0.0.0 qresear.ch
+0.0.0.0 qbrief.com
+0.0.0.0 qanon.news
+0.0.0.0 qmap.pub
+0.0.0.0 theqanons.com
+0.0.0.0 theqanonhub.weebly.com
+0.0.0.0 qposts.online
+0.0.0.0 qanon.video
+0.0.0.0 qanonnederland.wordpress.com
+0.0.0.0 qupdates.com
+0.0.0.0 thinkqanon.com
+0.0.0.0 theqpatriothub.weebly.com
+
+######################
+##
+## Social Media
+##
+######################
+0.0.0.0 parler.com
+0.0.0.0 gab.com
+0.0.0.0 metabunk.org
+0.0.0.0 bitchute.com
+0.0.0.0 disclose.tv
+0.0.0.0 orbys.net
+
+######################
+##
+## Uncategorized
+##
+######################
+0.0.0.0 thegatewaypundit.com
+0.0.0.0 thebloodyaussiebattler.com
+0.0.0.0 kingof.uk
+0.0.0.0 australianpatriotradio.com
+0.0.0.0 mywillaustralia.com
+0.0.0.0 cirnow.com.au
+0.0.0.0 advance-australia.com.au
+0.0.0.0 jimhumble.co
+0.0.0.0 jimhumblebooks.co
+0.0.0.0 jimhumble.org
+0.0.0.0 jimhumblemms.myshopify.com
+0.0.0.0 jimhumbleaudio.com
+0.0.0.0 g2church239.org
+0.0.0.0 mkilani.com
+0.0.0.0 projectcamelotportal.com
+0.0.0.0 rejuvaflex.org
+0.0.0.0 itsrainmakingtime.com
+0.0.0.0 lifeissoamazing.com
+0.0.0.0 kerririvera.com
+0.0.0.0 waterpureworld.com
+0.0.0.0 totalrestitution.com
+0.0.0.0 conspiracyplanet.com
+0.0.0.0 counterpunch.org
+0.0.0.0 freedomplatform.tv
+0.0.0.0 londonreal.tv
+0.0.0.0 uncoverdc.com
+0.0.0.0 americanthinker.com
+0.0.0.0 gnews.org
+
+######################
+## This is free and unencumbered software released into the public domain.
+## 
+## Anyone is free to copy, modify, publish, use, compile, sell, or
+## distribute this software, either in source code form or as a compiled
+## binary, for any purpose, commercial or non-commercial, and by any
+## means.
+## 
+## In jurisdictions that recognize copyright laws, the author or authors
+## of this software dedicate any and all copyright interest in the
+## software to the public domain. We make this dedication for the benefit
+## of the public at large and to the detriment of our heirs and
+## successors. We intend this dedication to be an overt act of
+## relinquishment in perpetuity of all present and future rights to this
+## software under copyright law.
+## 
+## THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+## EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+## MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+## IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+## OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+## ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+## OTHER DEALINGS IN THE SOFTWARE.
+## 
+## For more information, please refer to <http://unlicense.org/>
+######################
